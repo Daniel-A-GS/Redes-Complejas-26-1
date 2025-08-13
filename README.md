@@ -10,7 +10,7 @@ Este repositorio contiene el material práctico del **Seminario de Matemáticas 
   - MySQL
   - Creación de bases de datos simulados
 
-La estructura de carpetas está organizada por semanas y clases, siguiendo el formato S#️⃣_NombreClase en donde #️⃣ es el número de semana en la que se impartió.
+La estructura de carpetas está organizada por semanas y clases, siguiendo el formato S#️⃣ en donde #️⃣ es el número de semana en la que se impartió. Dentro de cada carpeta se encontrarán los códigos en Python así como bases de datos necesarias para utilizar dichos códigos.
 
 ## 🎯 Enfoque
 - **100% práctico**: aprenderás a implementar conceptos de redes complejas directamente en Python.
