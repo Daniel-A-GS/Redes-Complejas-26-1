@@ -2,6 +2,11 @@
 
 Este repositorio contiene el material práctico del **Seminario de Matemáticas Aplicadas I**, enfocado en la introducción y aplicación de **Redes Complejas** usando Python.
 
+## 👨‍🏫 Equipo docente  
+
+- **Profesor titular:** Dr. Eduardo Jacobo Villegas 
+- **Profesor adjunto:** [Daniel A. García Sánchez](https://www.linkedin.com/in/daniel-garcia-data-analyst/) 
+
 ## 📚 Contenido
 
 - **Notebooks (`.ipynb`)** con ejemplos, ejercicios y proyectos.
