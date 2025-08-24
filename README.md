@@ -18,7 +18,7 @@ Este repositorio contiene el material práctico del **Seminario de Matemáticas 
 La estructura de carpetas está organizada por semanas y clases, siguiendo el formato S#️⃣ en donde #️⃣ es el número de semana en la que se impartió. Dentro de cada carpeta se encontrarán los códigos en Python así como bases de datos necesarias para utilizar dichos códigos.
 
 - S2: Instalar [Anaconda](https://www.anaconda.com/products/navigator), Markdown, Python básico.
-- S3: Condicionales, ciclos, POO y [Numpy](https://numpy.org/doc/2.3/).
+- S3: Condicionales, ciclos for y while, POO, Regex y [Numpy](https://numpy.org/doc/2.3/).
 - S4: Introducción a [NetworkX](https://networkx.org/documentation/stable/index.html).
 - S5: Modelado del metro de la CDMX y [Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide).
 - S6: Instalar [MySQL](https://www.mysql.com/products/workbench/), consumo de API ([Kaggle](https://www.kaggle.com/settings), [Yfinance](https://python-yahoofinance.readthedocs.io/en/latest/api.html), [Ecobici](https://ecobici.cdmx.gob.mx/en/open-data/)).
