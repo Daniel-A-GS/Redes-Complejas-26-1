@@ -22,7 +22,7 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 - S4: Introducción a [NetworkX](https://networkx.org/documentation/stable/index.html).
 - S5: Modelado del metro de la CDMX y [Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide).
 - S6: Instalar [MySQL](https://www.mysql.com/products/workbench/), consumo de API ([Kaggle](https://www.kaggle.com/settings), [Yfinance](https://python-yahoofinance.readthedocs.io/en/latest/api.html), [Ecobici](https://ecobici.cdmx.gob.mx/en/open-data/)).
-- S7: Variables Numéricas, Categóricas y sus gráficas con Matplotlib y Seaborn; Red Compleja de electroencefalograma para detectar depresión.
+- S7: Variables Numéricas, Categóricas y sus gráficas con [Matplotlib](https://matplotlib.org/stable/plot_types/index.html) y [Seaborn](https://seaborn.pydata.org/tutorial.html); Red Compleja de electroencefalograma para detectar depresión.
 - S8: Red Compleja a partir de API de fútbol.
 - S9: Construcción de redes de mundo pequeño ("small world") y libre escala ("scale free").
 - S11: Redes temporales con [Teneto](https://teneto.readthedocs.io/_/downloads/en/latest/pdf/).
