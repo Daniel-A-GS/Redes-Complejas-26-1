@@ -1,5 +1,7 @@
 # 🕸️ Seminario de Matemáticas Aplicadas I: Redes Complejas
 
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/549e735c-f375-44e0-9646-a1a275bfefa2" />
+
 Este repositorio contiene el material práctico del **Seminario de Matemáticas Aplicadas I**, enfocado en la introducción y aplicación de **Redes Complejas** usando Python.
 
 ## 👨‍🏫 Equipo docente  
@@ -20,6 +22,8 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 - S2: Instalar [Anaconda](https://www.anaconda.com/products/navigator), Markdown, Python básico.
 - S3: Condicionales, ciclos for y while, POO, Regex y [Numpy](https://numpy.org/doc/2.3/).
 - S4: Introducción a [NetworkX](https://networkx.org/documentation/stable/index.html) y sus métricas usando las relaciones en Game of Thrones.
+  <img src="https://github.com/user-attachments/assets/67c30913-f7ea-4353-9575-2171d5714cf1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b4aa7515-1d31-44ad-a9ef-a57a07bbe7ec" width="400"/>
 - S5: Modelado del metro de la CDMX y [Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide).
 - S6: Instalar [MySQL](https://www.mysql.com/products/workbench/), consumo de API ([Kaggle](https://www.kaggle.com/settings), [Yfinance](https://python-yahoofinance.readthedocs.io/en/latest/api.html), [Ecobici](https://ecobici.cdmx.gob.mx/en/open-data/)).
 - S7: Variables Numéricas, Categóricas y sus gráficas con [Matplotlib](https://matplotlib.org/stable/plot_types/index.html) y [Seaborn](https://seaborn.pydata.org/tutorial.html); Red Compleja de artistas de [Spotify](https://developer.spotify.com/documentation/web-api/reference/get-an-album).
