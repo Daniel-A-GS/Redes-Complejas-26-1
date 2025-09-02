@@ -1,5 +1,3 @@
-# 🕸️ Seminario de Matemáticas Aplicadas I: Redes Complejas
-
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/549e735c-f375-44e0-9646-a1a275bfefa2" />
 
 Este repositorio contiene el material práctico del **Seminario de Matemáticas Aplicadas I**, enfocado en la introducción y aplicación de **Redes Complejas** usando Python.
