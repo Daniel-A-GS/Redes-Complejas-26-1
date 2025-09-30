@@ -21,10 +21,16 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 - S3: Condicionales, ciclos for y while, POO, Regex y [Numpy](https://numpy.org/doc/2.3/).
 - S4: Introducción a [NetworkX](https://networkx.org/documentation/stable/index.html) y sus métricas usando las relaciones en Game of Thrones.
   <img src="https://github.com/user-attachments/assets/67c30913-f7ea-4353-9575-2171d5714cf1" width="400"/>
+  
 - S5: Modelado del metro de la CDMX y [Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide).
+  
   <img width="500" height="450" alt="Image" src="https://github.com/user-attachments/assets/d856efa2-56d3-49b2-a945-b3d95ecefcc4" />
+  
 - S6: Instalar [MySQL](https://www.mysql.com/products/workbench/), consumo de API ([Kaggle](https://www.kaggle.com/settings), [Yfinance](https://python-yahoofinance.readthedocs.io/en/latest/api.html), [Ecobici](https://ecobici.cdmx.gob.mx/en/open-data/)).
+  
 - S7: Variables Numéricas, Categóricas y sus gráficas con [Matplotlib](https://matplotlib.org/stable/plot_types/index.html) y [Seaborn](https://seaborn.pydata.org/tutorial.html); Red Compleja de artistas de [Spotify](https://developer.spotify.com/documentation/web-api/reference/get-an-album).
+  <img width="500" height="450" alt="Image" src="https://github.com/user-attachments/assets/eaa788e0-8be3-464e-8802-7112b055d70c" />
+  
 - S8: Red Compleja a partir de API de fútbol.
 - S9: Construcción de redes de mundo pequeño ("small world") y libre escala ("scale free").
 - S11: Redes temporales con [Teneto](https://teneto.readthedocs.io/_/downloads/en/latest/pdf/).
