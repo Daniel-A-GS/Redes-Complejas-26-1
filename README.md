@@ -39,7 +39,7 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
   - `matplotlib`
   - `seaborn`
 - Consumo de APIs
-- Consultas básicas en SQL
+- Modelado de redes aleatorias | small-world | scale-free | temporales y comprobar que en verdad son usando estadística y métricas.
 
 ## 📌 Notas
 Este repositorio está diseñado como apoyo a las clases presenciales.
