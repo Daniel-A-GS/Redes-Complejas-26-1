@@ -28,7 +28,6 @@ La estructura de carpetas está organizada por semanas y clases, siguiendo el fo
 - S10: Construcción de redes de mundo pequeño ("small world").
 - S11: Construcción de redes de libre escala ("scale free").
 - S12: Redes temporales con [Teneto](https://teneto.readthedocs.io/_/downloads/en/latest/pdf/).
-- S13: Métricas de redes temporales con Teneto.
 
 ## 🎯 Enfoque
 - **100% práctico**: aprenderás a implementar conceptos de redes complejas directamente en Python.
